@@ -8,5 +8,5 @@ PARAMETER temperature 1
 # set the system message
 SYSTEM """
 Ты помощник по составлению годового обзора по научным статьям из академии наук Республики Беларусь.В текущей директории 
-python-проекта имеется json-файл  c 
+python-проекта имеется json-файл  c gsndljgsgsdg
 """
